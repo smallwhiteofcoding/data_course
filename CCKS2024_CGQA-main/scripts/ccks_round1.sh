@@ -1,3 +1,4 @@
+cd C:\\Users\\Deaf\\Desktop\\课\\大三下\\综合课程设计3\\CCKS2024_CGQA-main\\CCKS2024_CGQA-main
 OUTPUTPATH=output/ccks_round1
 mkdir -p $OUTPUTPATH
 GPU=0
@@ -20,4 +21,5 @@ cat $OUTPUTPATH/output_result* > $OUTPUTPATH/all_result.txt
 
 python Get_final_result.py \
 --ori_path $OUTPUTPATH/all_result.txt \
---output_path $OUTPUTPATH/TeamName_result.txt
+--output_path $OUTPUTPATH/opduiduidui_result.txt
+read -p "Press any key to continue..."
