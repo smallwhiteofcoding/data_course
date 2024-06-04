@@ -1,0 +1,143 @@
+********* Tablemain *********
+=== Question:李贤的女婿是谁？
+{'role': 'user', 'content': 'Question: 李贤的女婿是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:凯瑟琳·哈恩和凯特·戴琳斯共同参演过哪些电影或电视剧？
+{'role': 'user', 'content': 'Question: 凯瑟琳·哈恩和凯特·戴琳斯共同参演过哪些电影或电视剧？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:我的英雄学院的主要角色有哪些？
+{'role': 'user', 'content': 'Question: 我的英雄学院的主要角色有哪些？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+OpenAI.APIError
+Retrying...
+Error code: 429
+********* Tablemain *********
+=== Question:李玉刚的音乐作品和孙霄磊的音乐作品总共有多少部？
+{'role': 'user', 'content': 'Question: 李玉刚的音乐作品和孙霄磊的音乐作品总共有多少部？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:无神之地不下雨的主演中有没有参与过少一点天分的歌曲原唱？
+{'role': 'user', 'content': 'Question: 无神之地不下雨的主演中有没有参与过少一点天分的歌曲原唱？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+OpenAI.APIError
+Retrying...
+Error code: 429
+OpenAI.APIError
+Retrying...
+Error code: 429
+********* Tablemain *********
+=== Question:刘芸的儿子是谁？
+{'role': 'user', 'content': 'Question: 刘芸的儿子是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:中央民族大学是哪个机构的下属机构？
+{'role': 'user', 'content': 'Question: 中央民族大学是哪个机构的下属机构？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:袁宏道有哪些代表作品？
+{'role': 'user', 'content': 'Question: 袁宏道有哪些代表作品？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:榛生在黑龙江美术出版社出版过哪些书？
+{'role': 'user', 'content': 'Question: 榛生在黑龙江美术出版社出版过哪些书？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:赵毅参演的电视剧有哪些？
+{'role': 'user', 'content': 'Question: 赵毅参演的电视剧有哪些？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:冯振在华东师范大学出版社出版的作品有哪些？
+{'role': 'user', 'content': 'Question: 冯振在华东师范大学出版社出版的作品有哪些？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:查德·迈克尔·墨瑞的前妻是谁？
+{'role': 'user', 'content': 'Question: 查德·迈克尔·墨瑞的前妻是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:权璩的父亲是谁？
+{'role': 'user', 'content': 'Question: 权璩的父亲是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:余恕诚的代表作品是什么，它的作者还有谁？
+{'role': 'user', 'content': 'Question: 余恕诚的代表作品是什么，它的作者还有谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:赵芸蕾的父亲父是谁？
+{'role': 'user', 'content': 'Question: 赵芸蕾的父亲父是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:赵曾向的孙子是谁？
+{'role': 'user', 'content': 'Question: 赵曾向的孙子是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:清华大学计算机科学与技术系的历任领导中，姓张的有几位？
+{'role': 'user', 'content': 'Question: 清华大学计算机科学与技术系的历任领导中，姓张的有几位？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:安徽省桐城中学的知名人物中，哪些人毕业于中国科学技术大学？
+{'role': 'user', 'content': 'Question: 安徽省桐城中学的知名人物中，哪些人毕业于中国科学技术大学？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:苏瑰的曾祖父是谁？
+{'role': 'user', 'content': 'Question: 苏瑰的曾祖父是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:梁松的小姨子是谁？
+{'role': 'user', 'content': 'Question: 梁松的小姨子是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:京都大学的办学性质是什么？
+{'role': 'user', 'content': 'Question: 京都大学的办学性质是什么？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:魏如萱的音乐作品有哪些是为他人创作的？
+{'role': 'user', 'content': 'Question: 魏如萱的音乐作品有哪些是为他人创作的？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:梁商的曾祖父是谁？
+{'role': 'user', 'content': 'Question: 梁商的曾祖父是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:洪炎的表兄弟是谁？
+{'role': 'user', 'content': 'Question: 洪炎的表兄弟是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:请问"南方朔"写过哪些书？
+{'role': 'user', 'content': 'Question: 请问"南方朔"写过哪些书？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:金度延的队友和前队友总共有多少人？
+{'role': 'user', 'content': 'Question: 金度延的队友和前队友总共有多少人？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:杨戴的爷爷和父亲分别是谁？
+{'role': 'user', 'content': 'Question: 杨戴的爷爷和父亲分别是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:马秋华的学生中，有多少人？
+{'role': 'user', 'content': 'Question: 马秋华的学生中，有多少人？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:中央音乐学院现任领导中，有没有陈琳的丈夫或前夫？
+{'role': 'user', 'content': 'Question: 中央音乐学院现任领导中，有没有陈琳的丈夫或前夫？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:姚慕双的弟弟的侄子有哪些人？
+{'role': 'user', 'content': 'Question: 姚慕双的弟弟的侄子有哪些人？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:话题2010是由哪位作者创作的？
+{'role': 'user', 'content': 'Question: 话题2010是由哪位作者创作的？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:邵兵的儿子和女儿分别参演过哪些作品？
+{'role': 'user', 'content': 'Question: 邵兵的儿子和女儿分别参演过哪些作品？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+OpenAI.APIError
+Retrying...
+Error code: 429
+OpenAI.APIError
+Retrying...
+Error code: 429

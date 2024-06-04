@@ -1,0 +1,135 @@
+********* Tablemain *********
+=== Question:王世贞是哪位诗人的学生的好友？
+{'role': 'user', 'content': 'Question: 王世贞是哪位诗人的学生的好友？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+OpenAI.APIError
+Retrying...
+Error code: 429
+OpenAI.APIError
+Retrying...
+Error code: 429
+OpenAI.APIError
+Retrying...
+Error code: 429
+********* Tablemain *********
+=== Question:震撼世界的七日这部作品中，主要角色彭铁军是由哪位演员扮演的？
+{'role': 'user', 'content': 'Question: 震撼世界的七日这部作品中，主要角色彭铁军是由哪位演员扮演的？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:刘棨的儿子是谁？
+{'role': 'user', 'content': 'Question: 刘棨的儿子是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:靳东的音乐作品和参演的电视剧中，有哪些名称是相同的？
+{'role': 'user', 'content': 'Question: 靳东的音乐作品和参演的电视剧中，有哪些名称是相同的？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:在宫崎葵的搭档中，哪些人是富江最终章：禁断的果实的主要演员
+{'role': 'user', 'content': 'Question: 在宫崎葵的搭档中，哪些人是富江最终章：禁断的果实的主要演员'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:王喆的音乐作品中，哪首歌的原唱也是上海音乐学院的领导？答案
+{'role': 'user', 'content': 'Question: 王喆的音乐作品中，哪首歌的原唱也是上海音乐学院的领导？答案'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:雪小禅的所有作品中，哪些书是由北方妇女儿童出版社和苏州古吴轩出版社有限公司出版的？
+{'role': 'user', 'content': 'Question: 雪小禅的所有作品中，哪些书是由北方妇女儿童出版社和苏州古吴轩出版社有限公司出版的？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:蔡笑晚的子女一共写过多少本书？
+{'role': 'user', 'content': 'Question: 蔡笑晚的子女一共写过多少本书？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:田蕤参演的电视剧中，哪一部的主要角色包含了“美织子”？
+{'role': 'user', 'content': 'Question: 田蕤参演的电视剧中，哪一部的主要角色包含了“美织子”？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:金宰铉的音乐作品和代表作品分别是什么？
+{'role': 'user', 'content': 'Question: 金宰铉的音乐作品和代表作品分别是什么？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:葛立方的父亲是谁？
+{'role': 'user', 'content': 'Question: 葛立方的父亲是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:法律文书学第五版是由哪位作者创作的？
+{'role': 'user', 'content': 'Question: 法律文书学第五版是由哪位作者创作的？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:上海商学院的历任领导中，有哪些人创作过文学作品？
+{'role': 'user', 'content': 'Question: 上海商学院的历任领导中，有哪些人创作过文学作品？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:刘思涵的音乐作品中，有哪些也是她的音乐视频？
+{'role': 'user', 'content': 'Question: 刘思涵的音乐作品中，有哪些也是她的音乐视频？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:中国社会科学院的知名人物中，有多少人曾经是该院的领导？？
+{'role': 'user', 'content': 'Question: 中国社会科学院的知名人物中，有多少人曾经是该院的领导？？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:李嘉诚的孙子和孙女分别有多少人？
+{'role': 'user', 'content': 'Question: 李嘉诚的孙子和孙女分别有多少人？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:王丽达和汤子星共同的音乐作品有哪些？
+{'role': 'user', 'content': 'Question: 王丽达和汤子星共同的音乐作品有哪些？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:李建超毕业于哪所大学？
+{'role': 'user', 'content': 'Question: 李建超毕业于哪所大学？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:伊桑·霍克参演的电影中，有哪些作品他同时担任编剧？
+{'role': 'user', 'content': 'Question: 伊桑·霍克参演的电影中，有哪些作品他同时担任编剧？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:权皋的儿子是谁？
+{'role': 'user', 'content': 'Question: 权皋的儿子是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:周柏春的侄子有哪些人？
+{'role': 'user', 'content': 'Question: 周柏春的侄子有哪些人？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:张其萍的代表作品是什么？
+{'role': 'user', 'content': 'Question: 张其萍的代表作品是什么？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:靳东和江珊的毕业院校是哪所？
+{'role': 'user', 'content': 'Question: 靳东和江珊的毕业院校是哪所？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:白狼的演员中，哪些人毕业于中央戏剧学院"？
+{'role': 'user', 'content': 'Question: 白狼的演员中，哪些人毕业于中央戏剧学院"？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:他在逆光中告白的主要演员中，谁的同学是李斐然？
+{'role': 'user', 'content': 'Question: 他在逆光中告白的主要演员中，谁的同学是李斐然？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:文从简的祖父是谁？
+{'role': 'user', 'content': 'Question: 文从简的祖父是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:王臣的所有作品中，哪些是由东方出版社出版的？
+{'role': 'user', 'content': 'Question: 王臣的所有作品中，哪些是由东方出版社出版的？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:成小红的毕业院校是公立大学的还是私立大学的？
+{'role': 'user', 'content': 'Question: 成小红的毕业院校是公立大学的还是私立大学的？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:韩晶的音乐作品有几首？
+{'role': 'user', 'content': 'Question: 韩晶的音乐作品有几首？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+********* Tablemain *********
+=== Question:软件项目知识管理与创新模式研究和转轨时期国有银行脆弱性的理论分析与实证研究这两本书的作者分别是谁？
+{'role': 'user', 'content': 'Question: 软件项目知识管理与创新模式研究和转轨时期国有银行脆弱性的理论分析与实证研究这两本书的作者分别是谁？'}
+Retry_count:1, Num of SC:5, Total_numL:0
+OpenAI.APIError
+Retrying...
+Error code: 429
+OpenAI.APIError
+Retrying...
+Error code: 429
