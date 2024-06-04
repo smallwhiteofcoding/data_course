@@ -4,7 +4,7 @@ mkdir -p $OUTPUTPATH
 GPU=0
 
 CUDA_VISIBLE_DEVICES=$GPU python CGdata_for_ccks.py \
---key api_key.txt --num_process 1 \
+--key api_key.txt --num_process 2 \
 --openai_url https://free.gpt.ge \
 --folder_path dataset/CCKS_round1/kg\(utf8\).txt \
 --data_path dataset/CCKS_round1/test_qa.json \

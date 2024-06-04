@@ -21,7 +21,7 @@ def _temp2CG_(tempkg_file):
     entities_2_line = defaultdict(set)
     all_lines_id = set()
     
-    with open(tempkg_file, 'r', )as f:
+    with open(tempkg_file, 'r', encoding='utf-8')as f:
         table=[]
         for idx, line in enumerate(f.readlines()):                        
             elements = line.strip().split('\t')
@@ -66,7 +66,7 @@ def _temp2CG_(tempkg_file):
 
 def get_tempKGquestion(data_path):
     
-    with open(data_path, 'r') as fp:
+    with open(data_path, 'r',encoding='utf-8') as fp:
         tb_question = json.loads(fp.read())
 
     # question_list = []
@@ -168,7 +168,7 @@ def _kg2CG_(kg_file):
     entities_2_line = defaultdict(set)
     all_lines_id = set()
     
-    with open(kg_file, 'r', )as f:
+    with open(kg_file, 'r', encoding='utf-8')as f:
         table=[]
         for idx, line in enumerate(f.readlines()):                        
             elements = line.strip().split('\t')
@@ -213,7 +213,7 @@ def KG2CG(folder_path):
 
 def get_wqsp_question(data_path):
     KGQA_data = []
-    with open(data_path, 'r') as fp:
+    with open(data_path, 'r',encoding='utf-8') as fp:
         for line in fp:
             obj = json.loads(line)
             

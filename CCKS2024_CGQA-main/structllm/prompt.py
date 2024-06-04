@@ -12,7 +12,7 @@ class kgqa_query_prompt():
             # self.retrieve_dynamic_prompt(args, question, table_data, relations, collection)   
             pass                 
         else:
-            with open(args.prompt_path, 'r') as json_file:
+            with open(args.prompt_path, 'r',encoding="utf-8") as json_file:
                 self.naive_prompt = json.load(json_file)
         
         self.naive_prompt.append(

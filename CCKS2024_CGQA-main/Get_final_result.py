@@ -30,7 +30,7 @@ def get_selfconsistency_res(prediction: list):
 def get_output_file(args):
     output_predict = dict()
 
-    with open(args.ori_path, 'r') as f:
+    with open(args.ori_path, 'r',encoding='utf-8') as f:
         for _idx, line in enumerate(f):
             line = json.loads(line.strip())
             question = line[list(line.keys())[0]]['question']
@@ -43,7 +43,7 @@ def get_output_file(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--ori_path', type=str, default="./output/ccks_round1/all_result.txt")
+    parser.add_argument('--ori_path', type=str, default="t.json")
     parser.add_argument('--output_path', type=str, default='./output/ccks_round1/output.txt')
     args = parser.parse_args()
     get_output_file(args)
